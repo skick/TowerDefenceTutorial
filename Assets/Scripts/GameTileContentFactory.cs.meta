@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2171578db1b084b41afef7943b698496
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - destinationPrefab: {instanceID: 0}
+  - emptyPrefab: {instanceID: 0}
+  - wallPrefab: {instanceID: 0}
+  - spawnPointPrefab: {instanceID: 0}
+  - towerPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
